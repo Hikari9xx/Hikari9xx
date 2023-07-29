@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Hikari9xx
+- 👀 I’m interested in Code
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Githud
+- 📫 How to reach me : seikou8388@gmail.com
